@@ -1,7 +1,7 @@
 -- Use the alx_book_store database
 USE alx_book_store;
 
--- Insert multiple rows into the Customers table
+-- Insert multiple rows into the Customer table
 INSERT INTO Customers (customer_id, customer_name, email, address)
 VALUES
     (2, 'Blessing Malik', 'bmalik@sandtech.com', '124 Happiness Ave.'),
